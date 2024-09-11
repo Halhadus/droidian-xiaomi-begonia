@@ -2,7 +2,7 @@ xiaomi_begonia:
   type: rootfs
   arch: arm64
   edition: [phosh, cutie]
-  variant: phone
+  variant: image
   apilevel: 29
   use_internal_repository: false
 
