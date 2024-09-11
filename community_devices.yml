@@ -11,9 +11,9 @@ xiaomi_begonia:
     - adaptation-xiaomi-begonia-configs
     - adaptation-xiaomi-begonia-android
     - linux-bootimage-4.14.141-xiaomi-begonia
-    - linux-bootimage-xiaomi-begonka
+    - linux-bootimage-xiaomi-begonia
     - linux-headers-4.14.141-xiaomi-begonia
-    - linux-headers-xiaomi-begonka
+    - linux-headers-xiaomi-begonia
     - linux-image-4.14.141-xiaomi-begonia
     - linux-image-xiaomi-begonia
     - adaptation-hybris-api29-phone-dual-sim
