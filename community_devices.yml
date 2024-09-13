@@ -1,5 +1,5 @@
 xiaomi_begonia:
-  type: image
+  type: rootfs
   arch: arm64
   edition: [phosh, cutie]
   variant: phone
